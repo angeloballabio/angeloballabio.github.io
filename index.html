@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="it">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+
+    <title>CV - Angelo</title>
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- google fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+    <!-- font awersome -->
+    <script src="https://kit.fontawesome.com/819e3dcfbc.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <section>
+        <div class="container-fluid" id="principale">
+            <nav class="navbar navbar-dark  navbar-expand-lg navbar-expand-md navbar-expand-sm fixed-top">
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <!-- <a class="navbar-brand" href="#principale">CV Angelo Ballabio</a> -->
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <a class="navbar-brand" href="#principale">CV Angelo Ballabio</a>
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#personale">Personale <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#lavoro">Lavoro</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#istruzione">Istruzione</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#aggiornamento" >Aggiornamento</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#competenze" >Competenze personali</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#gdpr" >Dati personali</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <div class="row">
+                <div class="lateral-menu">
+                    <img src="images/Angelo2017-4.png" alt="Angelo" class="border-image">
+                    <div class="title">
+                        <h1 class="title-menu">Linguaggi</h1>
+                        <ul>
+                            <li class="item-menu">
+                                <h2>Python</h2>
+                            </li>
+                            <li class="item-menu">
+                                <h2>PHP</h2>
+                            </li>
+                            <li class="item-menu">
+                                <h2>C++</h2>
+                            </li>
+                        </ul>
+                        <h1 class="title-menu">Sistemi</h1>
+                        <ul>
+                            <li class="item-menu">
+                                <h2>Linux</h2>
+                            </li>
+                            <li class="item-menu">
+                                <h2>windows</h2>
+                            </li>
+                        </ul>
+                    </div>
+
+
+                    <!-- section contatti -->
+                    <h3 class="section-title">Contatti</h3>
+                    <div class="row descrizione-menu">
+                            <i class="fas fa-map-marker-alt icon-menu"><p class="text-menu">Italia Milano</p></i>
+                    </div>
+                    <div class="row descrizione-menu">
+                        <i class="fas fa-phone-alt icon-menu"><p class="text-menu">0039 335 6567460</p></i>
+                    </div>
+                    <div class="row descrizione-menu">
+                        <i class="fas fa-envelope icon-menu"><p class="text-menu">angeloballabio@gmail.com</p></i>
+                    </div>
+                    <div class="row descrizione-menu">
+                        <i class="fas fa-tv icon-menu"><a href="https://www.youtube.com/channel/UCpRpp2DCBzCY7RB7KVEECWQ" target="_blank">Canale Youtube</a></i>
+                    </div>
+                    <div class="row descrizione-menu">
+                        <i class="fab fa-linkedin-in icon-menu"> <a href="https://www.linkedin.com/in/angelo-ballabio-9064141aa/" target="_blank">angeloballabio</a></i>
+                    </div>
+                    <div class="row descrizione-menu">
+                        <i class="fab fa-twitter icon-menu"><p class="text-menu">@angeloballabio</p></i>
+                    </div>
+                    <!-- section competenze -->
+                    <h3 class="section-title">Riepilogo competenze</h3>
+                    <div class="row descrizione-menu">
+                        <i class="fas fa-star star-menu"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star "></i><i class="fas fa-star"><p class="text-menu">Linguaggio Python</p></i>
+                    </div>
+                    <div class="row descrizione-menu">
+                        <i class="fas fa-star star-menu"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i></i><i class="far fa-star"><p class="text-menu">Linguaggio PHP</p></i>
+                    </div>
+                    <div class="row descrizione-menu">
+                        <i class="fas fa-star star-menu"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i></i><i class="far fa-star"><p class="text-menu">Programmazione C++</p></i>
+                    </div>
+                    <div class="row descrizione-menu">
+                        <i class="fas fa-star star-menu"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i></i><i class="far fa-star"><p class="text-menu">HTML CSS3</p></i>
+                    </div>
+                    <div class="row descrizione-menu">
+                        <i class="fas fa-star star-menu"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i></i><i class="far fa-star"><p class="text-menu">programmazione JS</p></i>
+                    </div>
+                    <div class="row descrizione-menu">
+                        <i class="fas fa-star star-menu"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></i><i class="far fa-star"><p class="text-menu">Admin Linux server</p></i>
+                    </div>
+                    <div class="row descrizione-menu">
+                        <i class="fas fa-star star-menu"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></i><i class="far fa-star"><p class="text-menu">MySQL</p></i>
+                    </div>
+                </div>
+                <div class="col-lg-9 col-sm-12 cv-description">
+                    <h1 class="pincipale-nome">Angelo Ballabio</h1>
+                    <hr>
+                    <h3>Programmatore Sistemista</h3>
+
+                    <!-- profilo personale -->
+                    <div class="profilo-personale" id="personale">
+                        <h2 class="titolo-descrizione">PROFILO PERSONALE</h2>
+                        <p class="text-descrizione">Sono un programmatore Python, e nel corso della mia carriera che arrivava dal C++ ho imparato il PHP con i framework Laravel, Django e Flask, Html ed il css, in questo momento sto apprendendo il JS che appare un linguaggio in forte crescita sia su applicazioni server side con Node, sia front end , in oltre con electron è anche possibile realizzare delle applicazioni desktop, viene anche utilizzato in robotica e servo meccanismi. Questo suuscita in me una grande curiosità.</p>
+                    </div>
+                    <div class="esperienze-lavoro" id="lavoro">
+                        <h2 class="titolo-descrizione">ESPERIENZE DI LAVORO</h2>
+                        <h6 class="titolo-descrizione">AUTONOMO</h6>
+                        <h6 class="titolo-descrizione">30/05/2019–attualmente</h6>
+                        <p class="text-descrizione">Programmazione di applicazioni per la gestione di dati, e per la visione di siti. Utilizzo dei principali tools come framework Laravel con livewire e con python django e flask. Ho partecipato ad alcuni progetti europei nei quali ho fonito e applicato le mie conoiscenze. La realizzazione di siti per ecommerce in laravel per la vendita e somministrazione di beni di uso quotidiano come pane e pizza. Una dimostrazione succinta ai seguenti indirizzi <a href="https://youtu.be/mw9WKox8jDo" target="_blank"><b>Ordina pizza</b></a>, <a href="https://youtu.be/AjVnkdeOMz8" target="_blank"><b>Ordina pane</b></a>, ovviamente privati della parte grafica di proprietà dei destinatari. Per una ditta olandese sempre nel progetto comunita europea un convertitore di formato che permette di trasformare I dati contenuti in pagine web, o in file pdf o excel per metterli a disposizione dell’applicazione Knime per valutazioni statistiche, realizzate mediante l’uso di python con qt5 nei quali ho utilizzato varie tecnologie per la gestione dei dati, dimostrativi alla pagina <a href="https://youtu.be/F7-gVYumxLM" target="_blank"><b>Knime converte 1</b></a> e alla pagina <a href="https://youtu.be/hRo9A-qsKFo" target="_blank"><b>Knime converter 2</b></a>. Ho poi realizzato un applicazione per la gestione dell’arrivo di container e la preparazione di liste per dichiarazione doganale e relative richieste realizzata sempre nell’ambito europeo per agenzie doganali, la versione in dimostrazione all’indirizzo <a href="https://youtu.be/CPnmH5JupzU" target="_blank"><b>Container</b></a> , è quella in italiano con gli opportuni adattamenti per la dogana italiana e la sua normativa, non mi è possibile per riservatezza mostrare l’originale. Ho appena realizzato una App per Django che implementa una applicazione di messaggistica simile alla mail ma che funziona tutta sul server e non consente scambio globale ma solo tra cliente e fornitore, si puo visionare a questo indirizzo <a href="https://youtu.be/yGXkitoJmeY" target="_blank"><b>Staff customer messages</b></a>
+                        </p>
+                        <p class="text-descrizione">In questa attività ho utilizzato le seguenti tecnologie : Python, PHP con laravel + Liwewire, MySql, PyQt5, varie librerie python quali reportlab, xlrd, xlrdb, xlswriter, pdfreader, sqlalchemie, bootstrap 4 e 5 , Tailwind. Ho avuto modo di mescolare python e laravel nell’applicazione container. Utilizzo di faker per la generazione di dati di prova. Non ho mai utilizzato sistemi di testing, ma mi sto aggiornando.
+                        </p>
+                        <h6>IMPIEGATO DICHIARANTE DOGANALE / AMMINISTRATORE SISTEMI LINUX</h6>
+                        <h6>Interterra International Transport snc</h6>
+                        <h6 class="titolo-descrizione">01/09/2004–30/05/2019</h6>
+                        <p class="text-descrizione">Dichiarante doganale export presso il distaccamento Ortomercato, Amministratore dei sistemi informatici, client/server, Windows, Linux, realizzazioni programmi verticalizzati per la gestione delle attivita. Configurazioni dei sistemi, aggiornamenti sistemi operativi. Gestione e manutenzione dei server SQL, gestioni della rete informatica.</p>
+                        <h6 class="titolo-descrizione">AUTONOMO</h6>
+                        <h6 class="titolo-descrizione">01/07/1993–01/09/2004</h6>
+                        <h6>Informatica, assistenza tecnica macchinari Calzatura</h6>
+                        <p class="text-descrizione">Realizzazione di convertitori per interfacciare vari programmi con i macchinari per la lavorazione, assistenza tecnica, per installazione, istruzione, manutenzione di macchinari ad alta tecnologia tipo cad / cam nell'ambito calzaturiero, compratore estero per una ditta italiana nell' ambito della decorazione.</p>
+                        <h6 class="titolo-descrizione">TECNICO ASSISTENZA, INSTALLAZIONE MACCHINE CAD/CAM CALZATURIERO</h6>
+                        <h6 class="titolo-descrizione">01/01/1980–30/05/1993</h6>
+                        <h6>United Shoe Machinery Group</h6>
+                        <p class="text-descrizione">Assistenza tecnica, installazione, manutenzione, riparazione, help desk per macchinariu CAD/CAM ad alta tecnologia nel settore calzaturiero.</p>
+
+                    </div>
+                    <div class="esperienze-lavoro" id="istruzione">
+                        <h2 class="titolo-descrizione">ISTRUZIONE E FORMAZIONE</h2>
+                        <h6 class="titolo-descrizione">Perito Industriale "Capotecnico Elettrotecnico"</h6>
+                        <h6 class="titolo-descrizione">01/09/1969–30/05/1975</h6>
+                        <h6 class="titolo-descrizione">ITIS G. Giorgi Milano</h6>
+                        <p class="text-descrizione">Perito industriale nel settore elettrotecnico, elettricista, progettista impianti industriali, motori elettrici, sistemi per la generazione dell'emnergia.</p>
+                        <h6 class="titolo-descrizione">Assistenza tecnica, installazione, manutenzione, riparazione, help desk per macchinariu CAD/CAM ad alta tecnologia nel settore calzaturiero</h6>
+                        <h6 class="titolo-descrizione">01/10/1980–20/07/1993</h6>
+                        <h6 class="titolo-descrizione">United Shoe Machinery Group, Boston (Stati Uniti d'America) </h6>
+                        <p class="text-descrizione">Programmazione dei macchinari, linguaggi di programmazione, metodi psicologici per la gestione dei clienti, aggiornamenti su macchinari, istruzione su nuovi macchinari. Partecipazione a sviluppo di nuovi macchinari o ad aggiornamenti degli stessi. I corsi erano svolti presso le brench della societa</p>
+                        <h6 class="titolo-descrizione">Operatore d'ufficio con competenze di lingua Russa</h6>
+                        <h6 class="titolo-descrizione">25/03/2020–05/06/2020</h6>
+                        <h6 class="titolo-descrizione">CFTA, Milano (Italia) </h6>
+                        <p class="text-descrizione">Sudio atto alla comprensione scritta e orale della lingiua Russa livello A1</p>
+                        <h6 class="titolo-descrizione">Corso di web Develooper PHP 7</h6>
+                        <h6 class="titolo-descrizione">25/03/2020–05/06/2020</h6>
+                        <h6 class="titolo-descrizione">CFTA, Milano (Italia)</h6>
+                        <p class="text-descrizione">Studio atto ad acquisire le competenze per lo sviluppo di site WEB mediante uso di PHP 7 e relativi applicativi quali Laravel, Bootstrap 4, Jquery, WordPress  ecc.</p>
+                    </div>
+                    <div class="esperienze-lavoro" id="aggiornamento">
+                        <h2 class="titolo-descrizione">CORSI DI AGGIORNAMENTO</h2>
+                        <h6 class="titolo-descrizione">Sviluppo Web con Python e Flask</h6>
+                        <h6 class="titolo-descrizione">Dicembre 2020</h6>
+                        <h6 class="titolo-descrizione">Udemy</h6>
+                        <p class="text-descrizione">Impara a costruire Siti Web Professionali con Python e Flask</p>
+                        <h6 class="titolo-descrizione">Web Developer Bootcamp with Flask and Python</h6>
+                        <h6 class="titolo-descrizione">Gennaio 2021</h6>
+                        <h6 class="titolo-descrizione">Udemy</h6>
+                        <p class="text-descrizione">Become a Full Stack Web Developer using Flask, Python, HTML, CSS, and MongoDB!</p>
+                        <h6 class="titolo-descrizione">Guida Pratica e Completa a Django, Python e Bootstrap</h6>
+                        <h6 class="titolo-descrizione">Gennaio 2021</h6>
+                        <h6 class="titolo-descrizione">Udemy</h6>
+                        <p class="text-descrizione">Impara a programmare e a costruire Siti Web professionali con Python, Django, Bootstrap, HTML e CSS!</p>
+                        <h6 class="titolo-descrizione">Corso generale HTML CSS JAVASCRIPT INFORMATIVO</h6>
+                        <h6 class="titolo-descrizione">marzo 2021</h6>
+                        <h6 class="titolo-descrizione">Udemy</h6>
+                        <p class="text-descrizione">Non solo Programmazione! Realizza i tuoi progetti con HTML, CSS, Javascript, Java, Node, MySQL, Linux, Wordpress, ecc!</p>
+                    </div>
+                    <div class="esperienze-lavoro" id="competenze">
+                        <h2 class="titolo-descrizione">COMPETENZE PERSONALI</h2>
+                        <h6 class="titolo-descrizione">Madre Lingua</h6>
+                        <p class="text-descrizione">Italiano</p>
+                        <h6 class="titolo-descrizione">Lingue straniere</h6>
+                        <table class="table table-striped table-success table-sm table-responsive-sm">
+                            <thead>
+                                <tr>
+                                    <th colspan="1"></th>
+                                    <th colspan="2">COMPRENSIONE</th>
+                                    <th colspan="2">PARLATO</th>
+                                    <th colspan="1">SCRITTO</th>
+                                </tr>
+                                <tr>
+                                    <th>Lingua</th>
+                                    <th>Ascolto</th>
+                                    <th>Lettura</th>
+                                    <th>Interazione</th>
+                                    <th>Produzione orale</th>
+                                    <th>Produzione scritta</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Inglese</td>
+                                    <td>B1</td>
+                                    <td>B2</td>
+                                    <td>B2</td>
+                                    <td>B2</td>
+                                    <td>B1</td>
+                                </tr>
+                                <tr>
+                                    <td>Spagmolo</td>
+                                    <td>C2</td>
+                                    <td>C2</td>
+                                    <td>C2</td>
+                                    <td>C2</td>
+                                    <td>C1</td>
+                                </tr>
+                                <tr>
+                                    <td>Russo</td>
+                                    <td>A1</td>
+                                    <td>A1</td>
+                                    <td>A1</td>
+                                    <td>A1</td>
+                                    <td>A1</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h6 class="titolo-descrizione">Competenze comunicative</h6>
+                        <p class="text-descrizione">Buona competenza comunicativa acquisita durante il mio lavoro in vari paese esteri, e Italiani. Dovendo istruire del personale anche non madre lingua con la mia o con la lingua straniera da me conosciuta, pur agendo in questi casi con un opportuno traduttore (cinese, russo, arabo) Sono sempre riuscito ad avere una ottima comunicazione ed a percepire le difficoltà che l'interlocutore incontrava nell' apprendimento di ciò che io spiegavo.</p>
+                        <h6 class="titolo-descrizione">Competenze organizzative e gestionali</h6>
+                        <p class="text-descrizione">Ho sempre lavorato autonomamente, conseguentemente ho dovuto acquisite le competenze necessarie per poter agire in modo efficace al raggiungimento dello scopo. Essendo lontano dal mio paese e non avendo pertanto una comunicazione diretta con la sede, al tempo i cellulari non erano ancora disponibili, dovevo per forza di cose cavarmela in modo autonomo.</p>
+                        <h6 class="titolo-descrizione">Competenze professionali</h6>
+                        <p class="text-descrizione">Buona capacita nella programmazione in C++, Python, PHP, dimestichezza con librerie come le wXWindos , QT, conoscenza del linguaggio SQL, MySQL, PostgreSQL. Esperienza nella preparazione di UX/UI per l'interfaccia con l'utente utilizzatore. Conoscenze dei sistemi Libreoffice/Openoffice/Office. Acquisito nel corso della carriera competenze di gestione e amministrazione di sistemi operativi Windows, Linux, con dimestichezza negli aggiornamenti, configurazioni di servizi, e sistemistica in generale, grande esperienza nella conversione dati Extract, Transform, Load (ETL).</p>
+                    </div>
+                    <div class="esperienze-lavoro" id="gdpr">
+                        <h2 class="titolo-descrizione">TRATTAMENTO DEI DATI PERSONALI</h2>
+                        <p class="text-descrizione">Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base all’art. 13 del D. Lgs. 196/2003 e all’art. 13 del Regolamento UE 2016/679 relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
+    -->
+</body>
+
+</html>
