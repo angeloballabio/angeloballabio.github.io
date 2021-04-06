@@ -1,0 +1,178 @@
+body {
+    text-align: center;
+    background-color: #282846; /*#1a508b;*/
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 10%;
+}
+
+.container-fluid {
+    padding: 5% 3%;
+}
+
+.navbar {
+    /* padding: 0 0 1rem; */
+    /* padding: 0 0 4.5rem; */
+    margin: 0;
+    background-color: #282846;
+    /* background-color: #1a508b; */
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.lateral-menu {
+    /* background-color: #1a508b; */
+    background-color: #282846;
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 15%;
+    padding-left: 15px;
+    margin-left: 15px;
+
+    flex: 0 0 320px;
+}
+
+.section-title {
+    text-align: left;
+    font-weight: 500;
+    /* padding: 10px; */
+    margin-top: 10%;
+}
+
+.descrizione-menu {
+    margin: 20px 0;
+    text-align: left;
+    font-weight: 100;
+    font-size: 1.1rem;
+}
+
+.icon-menu a{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 100;
+    display: inline;
+    padding-left: 1rem;
+    /* margin: 0; */
+    color: #fff;
+    /* padding: 0 15px; */
+}
+
+.icon-menu a:hover{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 100;
+    display: inline;
+    padding-left: 1rem;
+    /* margin: 0; */
+    color: #fed049;
+    /* padding: 0 15px; */
+}
+
+.star-menu {
+    /* padding-left: 15px; */
+}
+
+.text-menu {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 100;
+    display: inline;
+    padding-left: 1rem;
+    /* margin: 0; */
+}
+
+.border-image {
+    border-radius: 100%;
+    width: 60%;
+}
+
+.title {
+    padding: 15% 1%;
+}
+.title-menu {
+    text-align: left;
+
+    font-weight: 700;
+}
+
+.item-menu {
+    text-align: left;
+}
+
+.cv-description {
+    background-color:  #d8ebe4; /*#fff;*/
+}
+
+.pincipale-nome {
+    font-size: 3.5rem;
+    font-weight: bold;
+
+    padding-top: 10%;
+    /* border-bottom: 3px solid; */
+}
+
+.profilo-personale {
+    text-align: left;
+    color: #007580;
+    padding: 15% 10% 1%;
+}
+
+.esperienze-lavoro{
+    text-align: left;
+    color: #007580;
+    padding: 15% 10% 1%;
+}
+
+.text-descrizione {
+    text-align: left;
+    color: #000;
+}
+
+.text-descrizione a{
+    text-align: left;
+    color: #000;
+}
+
+table{
+    border-collapse:collapse;
+
+}
+tr,td{
+    border:2px solid #aaa;
+}
+td,th{
+    text-align:center;
+    padding:5px 5px;}
+
+@media only screen and (max-width: 1024px) {
+    /* .lateral-menu {
+        flex: 0 0 200px;
+    } */
+    .container-fluid {
+        padding: 3% 0;
+    }
+    /* .col-sm-12 {
+        padding: 0;
+    } */
+    .profilo-personale {
+        text-align: left;
+        color: #007580;
+        padding: 10% 10% 1%;
+    }
+
+    .navbar{
+        width: 100%;
+    }
+
+    .profilo-personale {
+        text-align: left;
+        color: #007580;
+        padding: 10% 10%;
+    }
+}
