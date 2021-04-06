@@ -56,7 +56,7 @@
             </nav>
             <div class="row">
                 <div class="lateral-menu">
-                    <img src="images/Angelo2017-4.png" alt="Angelo" class="border-image">
+                    <img src="/images/Angelo2017-4.png" alt="Angelo" class="border-image">
                     <div class="title">
                         <h1 class="title-menu">Linguaggi</h1>
                         <ul>
